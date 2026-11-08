@@ -45,6 +45,18 @@ My approach combines technical assessment, risk-based remediation, operational c
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+### 🚀 Working Python Security Toolkit
+
+**[Security Review Toolkit v1.0](https://github.com/abdelrahmansafwat684-sys/abdulrahman-safwat/tree/main/security-toolkit)** — three lightweight, read-only tools for authorized reviews: HTTP security headers, verified TLS certificate expiry, and offline Google Cloud IAM policy risk signals. Includes **10 offline unit tests** and GitHub Actions CI configuration for Python 3.11–3.13.
+
+```bash
+cd security-toolkit
+python -m unittest discover -s tests -v
+python security_toolkit.py iam examples/sample_iam_policy.json --json
+```
+
+Checks are limited in scope and must not be interpreted as penetration-test findings or compliance certification.
+
 ### 📂 Featured Public Security Resources
 
 These resources are **generic, educational templates** — not confidential customer reports or claims of production testing.
