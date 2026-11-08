@@ -70,6 +70,12 @@ Demonstration only: no real customer findings, no scanning, and no claim of regu
 
 ### 🖥️ Interactive Cloud Security Dashboard
 
+[![CloudGuard Live Demo](https://img.shields.io/badge/OPEN-CLOUDGUARD_LIVE_DEMO-39D6B6?style=for-the-badge&logo=githubpages&logoColor=061426)](https://abdelrahmansafwat684-sys.github.io/abdulrahman-safwat/)
+
+**[Launch the interactive dashboard](https://abdelrahmansafwat684-sys.github.io/abdulrahman-safwat/)** · **[Read the engineering case study](https://github.com/abdelrahmansafwat684-sys/abdulrahman-safwat/blob/main/projects/cloud-posture-dashboard/CASE_STUDY.md)**
+
+
+
 **[CloudGuard Dashboard](https://github.com/abdelrahmansafwat684-sys/abdulrahman-safwat/tree/main/projects/cloud-posture-dashboard)** — a complete, mobile-responsive cloud security posture portfolio project with interactive risk visualizations, findings, synthetic control assessments, risk-based prioritization and CSV export.
 
 **18 offline tests passed locally.** [View source and run instructions](https://github.com/abdelrahmansafwat684-sys/abdulrahman-safwat/blob/main/projects/cloud-posture-dashboard/README.md). The dashboard uses **only fictional data** and makes no live cloud connection.
