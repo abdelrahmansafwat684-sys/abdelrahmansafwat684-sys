@@ -80,6 +80,16 @@ Demonstration only: no real customer findings, no scanning, and no claim of regu
 
 **18 offline tests passed locally.** [View source and run instructions](https://github.com/abdelrahmansafwat684-sys/abdulrahman-safwat/blob/main/projects/cloud-posture-dashboard/README.md). The dashboard uses **only fictional data** and makes no live cloud connection.
 
+### ☁️ GCP Security Automation — Read-Only Posture Auditor
+
+**[Explore GCP Security Automation](https://github.com/abdelrahmansafwat684-sys/abdulrahman-safwat/tree/main/projects/gcp-security-automation)** — built a dependency-free Python tool for opt-in, authorized metadata collection using read-only Google Cloud CLI commands and offline configuration risk analysis.
+
+**Coverage:** VPC ingress firewall indicators · Compute Engine public IPs · IAM overly broad roles · Cloud SQL network/TLS/backup review signals. **22 automated offline tests passed locally**.
+
+[Source](https://github.com/abdelrahmansafwat684-sys/abdulrahman-safwat/blob/main/projects/gcp-security-automation/gcp_audit.py) · [Synthetic assessment report](https://github.com/abdelrahmansafwat684-sys/abdulrahman-safwat/blob/main/projects/gcp-security-automation/examples/sample_report.md) · [Usage and safeguards](https://github.com/abdelrahmansafwat684-sys/abdulrahman-safwat/blob/main/projects/gcp-security-automation/README.md)
+
+> All public records and reports are synthetic. Live collection is explicit, read-only and requires prior authorization. Results are not compliance certification.
+
 ### 📂 Featured Public Security Resources
 
 These resources are **generic, educational templates** — not confidential customer reports or claims of production testing.
