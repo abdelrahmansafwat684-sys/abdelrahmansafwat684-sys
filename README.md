@@ -57,6 +57,17 @@ python security_toolkit.py iam examples/sample_iam_policy.json --json
 
 Checks are limited in scope and must not be interpreted as penetration-test findings or compliance certification.
 
+### 📊 Vulnerability Management & Reporting
+
+**[Vulnerability Triage & Reporting Engine](https://github.com/abdelrahmansafwat684-sys/abdulrahman-safwat/tree/main/projects/vulnerability-triage)** — an offline Python portfolio project for evidence-informed vulnerability prioritization, remediation tracking and executive reporting.
+
+- **16 offline unit tests**, run successfully locally
+- **Markdown / JSON / CSV** report generation
+- **[Synthetic executive report](https://github.com/abdelrahmansafwat684-sys/abdulrahman-safwat/blob/main/projects/vulnerability-triage/examples/sample_executive_report.md)** to review the output
+- **[CI workflow](https://github.com/abdelrahmansafwat684-sys/abdulrahman-safwat/actions)** for automated test checks
+
+Demonstration only: no real customer findings, no scanning, and no claim of regulatory certification.
+
 ### 📂 Featured Public Security Resources
 
 These resources are **generic, educational templates** — not confidential customer reports or claims of production testing.
