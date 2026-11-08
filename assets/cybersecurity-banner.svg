@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Abdulrahman Safwat cybersecurity banner">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop offset="0" stop-color="#060c19"/><stop offset=".55" stop-color="#0a1b2d"/><stop offset="1" stop-color="#063435"/></linearGradient><linearGradient id="line"><stop stop-color="#2bcaf7"/><stop offset="1" stop-color="#51f4ac"/></linearGradient><pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#4a96ba" stroke-opacity=".14"/></pattern></defs>
+<rect width="1200" height="330" rx="18" fill="url(#bg)"/><rect width="1200" height="330" rx="18" fill="url(#grid)"/>
+<path d="M60 64h78 M60 64v52 M1140 64h-78 M1140 64v52 M60 265h78 M60 265v-27 M1140 265h-78 M1140 265v-27" fill="none" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/>
+<text x="95" y="108" font-family="monospace" font-size="17" letter-spacing="3.5" fill="#62efc7">CYBERSECURITY  /  CLOUD  /  FINTECH</text>
+<text x="92" y="174" font-family="Arial, sans-serif" font-size="53" font-weight="700" fill="#f6fbff">ABDULRAHMAN</text>
+<text x="92" y="231" font-family="Arial, sans-serif" font-size="53" font-weight="700" fill="#f6fbff">SAFWAT<tspan fill="#51eabc">.</tspan></text>
+<text x="95" y="267" font-family="monospace" font-size="18" fill="#b9d3df">GCP  •  APPLICATION SECURITY  •  RISK REDUCTION</text>
+<g transform="translate(912 61)" stroke="url(#line)" stroke-width="4" stroke-linejoin="round" fill="none"><path d="M76 6l76 30v67c-1 57-47 85-76 97C47 188 1 160 0 103V36z"/><path d="M41 96l26 25 46-50" stroke-width="10" stroke-linecap="round"/></g>
+<text x="986" y="295" font-family="monospace" font-size="13" fill="#58e8bd" text-anchor="middle">DEFEND  •  DETECT  •  IMPROVE</text></svg>
