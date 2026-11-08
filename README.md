@@ -9,23 +9,14 @@
 </p>
 
 <p align="center">
-  <a href="https://abdelrahmansafwat684-sys.github.io/abdulrahman-safwat/portfolio/">
-    <img alt="View portfolio" src="https://img.shields.io/badge/OPEN_PORTFOLIO-0A272C?style=for-the-badge&logo=githubpages&logoColor=63E7C4" />
-  </a>
-  <a href="https://abdelrahmansafwat684-sys.github.io/abdulrahman-safwat/">
-    <img alt="CloudGuard demo" src="https://img.shields.io/badge/CLOUDGUARD_DEMO-075A5C?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  </a>
-  <a href="mailto:abdelrahmansafwat684@gmail.com?subject=Cybersecurity%20Collaboration">
-    <img alt="Contact by email" src="https://img.shields.io/badge/CONTACT_ME-26354B?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://abdelrahmansafwat684-sys.github.io/abdulrahman-safwat/portfolio/"><strong>🌐 Portfolio Website</strong></a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://abdelrahmansafwat684-sys.github.io/abdulrahman-safwat/"><strong>🛡️ CloudGuard Demo</strong></a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="mailto:abdelrahmansafwat684@gmail.com?subject=Cybersecurity%20Collaboration"><strong>✉️ Contact</strong></a>
 </p>
 
-<p align="center">
-  <img alt="Security engineering" src="https://img.shields.io/badge/SECURITY-ENGINEERING-132A3A?logo=hackthebox&logoColor=61E3C1" />
-  <img alt="Google Cloud" src="https://img.shields.io/badge/GOOGLE-CLOUD-132A3A?logo=googlecloud&logoColor=8EBEFF" />
-  <img alt="FinTech focus" src="https://img.shields.io/badge/DOMAIN-FINTECH-132A3A" />
-  <img alt="Authorized testing only" src="https://img.shields.io/badge/TESTING-AUTHORIZED_ONLY-132A3A" />
-</p>
+<p align="center"><strong>Web &amp; API Security</strong> · <strong>Google Cloud</strong> · <strong>FinTech</strong> · <strong>Risk Management</strong></p>
 
 ---
 
