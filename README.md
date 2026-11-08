@@ -68,6 +68,12 @@ Checks are limited in scope and must not be interpreted as penetration-test find
 
 Demonstration only: no real customer findings, no scanning, and no claim of regulatory certification.
 
+### 🖥️ Interactive Cloud Security Dashboard
+
+**[CloudGuard Dashboard](https://github.com/abdelrahmansafwat684-sys/abdulrahman-safwat/tree/main/projects/cloud-posture-dashboard)** — a complete, mobile-responsive cloud security posture portfolio project with interactive risk visualizations, findings, synthetic control assessments, risk-based prioritization and CSV export.
+
+**18 offline tests passed locally.** [View source and run instructions](https://github.com/abdelrahmansafwat684-sys/abdulrahman-safwat/blob/main/projects/cloud-posture-dashboard/README.md). The dashboard uses **only fictional data** and makes no live cloud connection.
+
 ### 📂 Featured Public Security Resources
 
 These resources are **generic, educational templates** — not confidential customer reports or claims of production testing.
