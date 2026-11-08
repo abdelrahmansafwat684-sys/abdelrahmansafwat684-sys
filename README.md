@@ -45,6 +45,14 @@ My approach combines technical assessment, risk-based remediation, operational c
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+### 🌐 My Cybersecurity Portfolio Website
+
+[![View Portfolio](https://img.shields.io/badge/OPEN-PROFESSIONAL_CYBERSECURITY_PORTFOLIO-63E7C4?style=for-the-badge&logo=githubpages&logoColor=061426)](https://abdelrahmansafwat684-sys.github.io/abdulrahman-safwat/portfolio/)
+
+**[Portfolio website](https://abdelrahmansafwat684-sys.github.io/abdulrahman-safwat/portfolio/)** · [Website source](https://github.com/abdelrahmansafwat684-sys/abdulrahman-safwat/tree/main/projects/cybersecurity-portfolio) · [CloudGuard live demo](https://abdelrahmansafwat684-sys.github.io/abdulrahman-safwat/)
+
+A responsive, recruiter-friendly overview of four public cybersecurity projects, with links to code, demonstration reports, and the interactive CloudGuard dashboard. All published example findings are fictional.
+
 ### 🚀 Working Python Security Toolkit
 
 **[Security Review Toolkit v1.0](https://github.com/abdelrahmansafwat684-sys/abdulrahman-safwat/tree/main/security-toolkit)** — three lightweight, read-only tools for authorized reviews: HTTP security headers, verified TLS certificate expiry, and offline Google Cloud IAM policy risk signals. Includes **10 offline unit tests** and GitHub Actions CI configuration for Python 3.11–3.13.
